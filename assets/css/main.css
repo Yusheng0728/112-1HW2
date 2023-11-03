@@ -50,7 +50,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
+/*長崎爽世被我幹*/
 body {
 	-webkit-text-size-adjust: none;
 }
@@ -196,6 +196,14 @@ input, select, textarea {
 		line-height: 1.375;
 		letter-spacing: -0.05em;
 		margin: 0 0 1rem 0;
+		
+	}
+	
+	h1,h2,h3{
+		font-weight:bold;
+	}
+	p{
+	font-style: italic;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
